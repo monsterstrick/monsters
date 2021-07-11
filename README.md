@@ -1,2 +1,2 @@
-1. How to use Hammer [`Watch it`](https://www.youtube.com/channel/UC6soVUMEVr7kpUNsx5S6nTg) 
+1. ALTA
 2. Fork it...
